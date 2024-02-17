@@ -167,7 +167,7 @@
                 </div>
 
                 <!-- Call To action -->
-                <section class="map-1">
+                <!-- <section class="map-1">
                     <div class="container-fluid">
                         <iframe
                             src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3559.258700051124!2d80.99793271451956!3d26.86352066867421!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399be2b8703bffff%3A0x2815d6ecd35c7e68!2sSoftpay!5e0!3m2!1sen!2sin!4v1655878325906!5m2!1sen!2sin"
@@ -175,7 +175,7 @@
                             referrerpolicy="no-referrer-when-downgrade"></iframe>
 
                     </div>
-                </section>
+                </section> -->
             </div>
             <script src="js/jquery.min.js"></script>
 
