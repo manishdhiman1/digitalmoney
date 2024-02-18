@@ -7,7 +7,7 @@
 <meta http-equiv="X-UA-Compatible" content="ie=edge" />
 <link rel="stylesheet" href="../netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
 
-<script src="../netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+<script src="netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
 
 <link href="vendor/bootstrap-select/responsive.css" rel="stylesheet" />
 <link href="vendor/bootstrap-select/bootstrap-min.html" rel="stylesheet" />
@@ -23,6 +23,10 @@
 <link rel="stylesheet" href="vendor/switcher/switcher.css" />
 <link rel="stylesheet" href="vendor/rangeslider/rangeslider.css" />
 
+<meta name="description" content="DigitalMoneyGlobal India Trusted All types Best API provider Software Company in India we offer All govt. Services 
+API, all Verification API at affordable Cost with high margin Commission." />
+<meta name="keywords"
+    content="digitalmoneyglobal , digital money , digitalmoney , api provider in India, api provider company, best api service provider, api provider software company in India, API Provider Software company, government services api, Government service api provider, verification api, All verification api" />
 
 <head>
 
@@ -165,17 +169,6 @@
                         </div>
                     </div>
                 </div>
-
-                <!-- Call To action -->
-                <!-- <section class="map-1">
-                    <div class="container-fluid">
-                        <iframe
-                            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3559.258700051124!2d80.99793271451956!3d26.86352066867421!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x399be2b8703bffff%3A0x2815d6ecd35c7e68!2sSoftpay!5e0!3m2!1sen!2sin!4v1655878325906!5m2!1sen!2sin"
-                            width="100%" height="450" style="border:0;" allowfullscreen="" loading="lazy"
-                            referrerpolicy="no-referrer-when-downgrade"></iframe>
-
-                    </div>
-                </section> -->
             </div>
             <script src="js/jquery.min.js"></script>
 
