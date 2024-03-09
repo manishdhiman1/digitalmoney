@@ -54,14 +54,12 @@ API, all Verification API at affordable Cost with high margin Commission." />
                 <div id="ContentPlaceHolder1_setTitle">
                     <div class='site-filters style-1 clearfix center m-b40'>
                         <ul class='filters' data-toggle='buttons'>
-                            <li class='btn active' data-filter='.C4'><input type='radio'> <a href='javascript: void(0);'
-                                    onclick=myfunction('4')>Enrollment</a> </li>
-                            <li data-filter='.C2' class='btn'><input type='radio'> <a href='javascript: void(0);'
-                                    onclick=myfunction('2')>Finance</a> </li>
-                            <li data-filter='.C5' class='btn'><input type='radio'> <a href='javascript: void(0);'
-                                    onclick=myfunction('5')>Recharge & Bill</a> </li>
-                            <li data-filter='.C3' class='btn'><input type='radio'> <a href='javascript: void(0);'
-                                    onclick=myfunction('3')>Verification</a> </li>
+                            <li class='btn active' data-filter='.C4'><input type='radio'> <a
+                                    href='javascript: void(0);'>Enrollment</a> </li>
+                            <li data-filter='.C4' class='btn'><input type='radio'> <a
+                                    href='javascript: void(0);'>Finance</a> </li>
+                            <li data-filter='.C4' class='btn'><input type='radio'> <a
+                                    href='javascript: void(0);'>Recharge & Bill</a> </li>
                         </ul>
                     </div>
                 </div>
