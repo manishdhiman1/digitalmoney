@@ -69,61 +69,61 @@ API, all Verification API at affordable Cost with high margin Commission." />
                     <div id="ContentPlaceHolder1_setData">
                         <ul id='masonry' class='row lightgallery'>
                             <li class='card-container  col-lg-2 col-md-6 col-sm-6 col-xs-6  C4'><a
-                                    href='aadhaar-enrollment-api.html'>
+                                    href='#aadhaar-enrollment-api.html'>
                                     <div class='dlab-box dlab-overlay-box style-1 m-b30'>
                                         <div class='dlab-media dlab-img-overlay1 primary'> <img alt='img'
-                                                src='images/services/08042022035409Aadhaar-Card-Enrollment.jpg'>
-                                            <div class='dlab-info'> Aadhar Card Enrollment</div>
+                                                src='images/services/aeps.png'>
+                                            <div class='dlab-info'> AEPS </div>
                                         </div>
                                     </div>
                                 </a></li>
                             <li class='card-container  col-lg-2 col-md-6 col-sm-6 col-xs-6  C4'><a
-                                    href='aadhar-download-api.html'>
+                                    href='#aadhar-download-api.html'>
                                     <div class='dlab-box dlab-overlay-box style-1 m-b30'>
                                         <div class='dlab-media dlab-img-overlay1 primary'> <img alt='img'
-                                                src='images/services/08042022035826Aadhaar-Download.jpg'>
-                                            <div class='dlab-info'> aadhar download</div>
+                                                src='images/services/dmt-money.png'>
+                                            <div class='dlab-info'> DMT ( Money Transfer ) </div>
                                         </div>
                                     </div>
                                 </a></li>
                             <li class='card-container  col-lg-2 col-md-6 col-sm-6 col-xs-6  C4'><a
-                                    href='birth-certificate-api.html'>
+                                    href='#birth-certificate-api.html'>
                                     <div class='dlab-box dlab-overlay-box style-1 m-b30'>
                                         <div class='dlab-media dlab-img-overlay1 primary'> <img alt='img'
-                                                src='images/services/29082022021038birth%20certificate.jpg'>
-                                            <div class='dlab-info'> Birth Certificate</div>
+                                                src='images/services/bbps.jpg'>
+                                            <div class='dlab-info'> BBPS </div>
                                         </div>
                                     </div>
                                 </a></li>
                             <li class='card-container  col-lg-2 col-md-6 col-sm-6 col-xs-6  C4'><a
-                                    href='death-certificate-api.html'>
+                                    href='#death-certificate-api.html'>
                                     <div class='dlab-box dlab-overlay-box style-1 m-b30'>
                                         <div class='dlab-media dlab-img-overlay1 primary'> <img alt='img'
-                                                src='images/services/29082022020821death-certificate-servicvices.jpg'>
-                                            <div class='dlab-info'> Death Certificate </div>
+                                                src='images/services/recharge.jpeg'>
+                                            <div class='dlab-info'> Recharge </div>
                                         </div>
                                     </div>
                                 </a></li>
                             <li class='card-container  col-lg-2 col-md-6 col-sm-6 col-xs-6  C4'><a
-                                    href='gst-enrollment-api.html'>
+                                    href='#gst-enrollment-api.html'>
                                     <div class='dlab-box dlab-overlay-box style-1 m-b30'>
                                         <div class='dlab-media dlab-img-overlay1 primary'> <img alt='img'
-                                                src='images/services/08042022040248GST-Enrollment.jpg'>
-                                            <div class='dlab-info'> Gst Enrolment API</div>
+                                                src='images/services/pancard.jpeg'>
+                                            <div class='dlab-info'> Pan Card </div>
                                         </div>
                                     </div>
                                 </a></li>
                             <li class='card-container  col-lg-2 col-md-6 col-sm-6 col-xs-6  C4'><a
-                                    href='insurance-enrollment-api.html'>
+                                    href='#insurance-enrollment-api.html'>
                                     <div class='dlab-box dlab-overlay-box style-1 m-b30'>
                                         <div class='dlab-media dlab-img-overlay1 primary'> <img alt='img'
-                                                src='images/services/08042022040412Insurence-Enrollment.jpg'>
-                                            <div class='dlab-info'> Insurance Enrollment API</div>
+                                                src='images/services/microatm.webp'>
+                                            <div class='dlab-info'> Micro ATM </div>
                                         </div>
                                     </div>
                                 </a></li>
-                            <li class='card-container  col-lg-2 col-md-6 col-sm-6 col-xs-6  C4'><a
-                                    href='irctc-enrollment-api.html'>
+                            <!-- <li class='card-container  col-lg-2 col-md-6 col-sm-6 col-xs-6  C4'><a
+                                    href='#irctc-enrollment-api.html'>
                                     <div class='dlab-box dlab-overlay-box style-1 m-b30'>
                                         <div class='dlab-media dlab-img-overlay1 primary'> <img alt='img'
                                                 src='images/services/08042022040448IRCTC-Enrollment.jpg'>
@@ -132,16 +132,16 @@ API, all Verification API at affordable Cost with high margin Commission." />
                                     </div>
                                 </a></li>
                             <li class='card-container  col-lg-2 col-md-6 col-sm-6 col-xs-6  C4'><a
-                                    href='itr-enrollment-api.html'>
+                                    href='#itr-enrollment-api.html'>
                                     <div class='dlab-box dlab-overlay-box style-1 m-b30'>
                                         <div class='dlab-media dlab-img-overlay1 primary'> <img alt='img'
                                                 src='images/services/23092021111636itrenroll2.jpg'>
                                             <div class='dlab-info'> ITR Enrollment</div>
                                         </div>
                                     </div>
-                                </a></li>
-                            <li class='card-container  col-lg-2 col-md-6 col-sm-6 col-xs-6  C4'><a
-                                    href='msme-enrollment-api.html'>
+                                </a></li> -->
+                            <!-- <li class='card-container  col-lg-2 col-md-6 col-sm-6 col-xs-6  C4'><a
+                                    href='#msme-enrollment-api.html'>
                                     <div class='dlab-box dlab-overlay-box style-1 m-b30'>
                                         <div class='dlab-media dlab-img-overlay1 primary'> <img alt='img'
                                                 src='images/services/22092021043952MSME_registration.jpg'>
@@ -150,7 +150,7 @@ API, all Verification API at affordable Cost with high margin Commission." />
                                     </div>
                                 </a></li>
                             <li class='card-container  col-lg-2 col-md-6 col-sm-6 col-xs-6  C4'><a
-                                    href='pancard-enrollment-api.html'>
+                                    href='#pancard-enrollment-api.html'>
                                     <div class='dlab-box dlab-overlay-box style-1 m-b30'>
                                         <div class='dlab-media dlab-img-overlay1 primary'> <img alt='img'
                                                 src='images/services/07122021041621pancard.jpg'>
@@ -159,7 +159,7 @@ API, all Verification API at affordable Cost with high margin Commission." />
                                     </div>
                                 </a></li>
                             <li class='card-container  col-lg-2 col-md-6 col-sm-6 col-xs-6  C4'><a
-                                    href='ration-card-enrollment-api.html'>
+                                    href='#ration-card-enrollment-api.html'>
                                     <div class='dlab-box dlab-overlay-box style-1 m-b30'>
                                         <div class='dlab-media dlab-img-overlay1 primary'> <img alt='img'
                                                 src='images/services/08042022040528Ration-Card-Enrollment.jpg'>
@@ -168,7 +168,7 @@ API, all Verification API at affordable Cost with high margin Commission." />
                                     </div>
                                 </a></li>
                             <li class='card-container  col-lg-2 col-md-6 col-sm-6 col-xs-6  C4'><a
-                                    href='rc-rto-mobile-number-update-api.html'>
+                                    href='#rc-rto-mobile-number-update-api.html'>
                                     <div class='dlab-box dlab-overlay-box style-1 m-b30'>
                                         <div class='dlab-media dlab-img-overlay1 primary'> <img alt='img'
                                                 src='images/services/RCRTOMobileNumberUpdate.jpg'>
@@ -177,7 +177,7 @@ API, all Verification API at affordable Cost with high margin Commission." />
                                     </div>
                                 </a></li>
                             <li class='card-container  col-lg-2 col-md-6 col-sm-6 col-xs-6  C4'><a
-                                    href='virtual-account-number-api.html'>
+                                    href='#virtual-account-number-api.html'>
                                     <div class='dlab-box dlab-overlay-box style-1 m-b30'>
                                         <div class='dlab-media dlab-img-overlay1 primary'> <img alt='img'
                                                 src='images/services/29082022033545virtualaccountnumber.jpg'>
@@ -185,24 +185,23 @@ API, all Verification API at affordable Cost with high margin Commission." />
                                         </div>
                                     </div>
                                 </a></li>
-                            <li class='card-container  col-lg-2 col-md-6 col-sm-6 col-xs-6  C4'><a
-                                    href='virtual-upi-enrollment-api.html'>
+                            <li class='card-container  col-lg-2 col-md-6 col-sm-6 col-xs-6  C4'><a href='#'>
                                     <div class='dlab-box dlab-overlay-box style-1 m-b30'>
                                         <div class='dlab-media dlab-img-overlay1 primary'> <img alt='img'
                                                 src='images/services/07122021041715virtual-UPI2.jpg'>
-                                            <div class='dlab-info'> virtual UPI</div>
+                                            <div class='dlab-info'> DMT ( Money Transfer )</div>
                                         </div>
                                     </div>
                                 </a></li>
                             <li class='card-container  col-lg-2 col-md-6 col-sm-6 col-xs-6  C4'><a
-                                    href='voter-id-enrolment-api.html'>
+                                    href='#voter-id-enrolment-api.html'>
                                     <div class='dlab-box dlab-overlay-box style-1 m-b30'>
                                         <div class='dlab-media dlab-img-overlay1 primary'> <img alt='img'
                                                 src='images/services/07122021041820voterid.jpg'>
                                             <div class='dlab-info'> voter ID enrolment api</div>
                                         </div>
                                     </div>
-                                </a></li>
+                                </a></li> -->
                         </ul>
                     </div>
 
